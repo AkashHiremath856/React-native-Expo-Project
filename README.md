@@ -1,4 +1,5 @@
 Signal-clone using React native
+
 //Packages to be installed//
 
 yarn add react-native-vector-icons 
